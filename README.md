@@ -15,3 +15,6 @@
 
 # How to Use
  Open the VI file in LabVIEW. Then open the LabVIEW Tools menu and you will see that  "TGit log" and "TGit add" have been added. Select one to open the TortoiseGit dialog.
+
+* Credits
+Many thanks to the git and the TortoiseGit project!
