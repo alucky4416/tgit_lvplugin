@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="TGit_LvPlugin_add.vi" Type="VI" URL="../TGit_LvPlugin_add.vi"/>
 		<Item Name="TGit_LvPlugin_log.vi" Type="VI" URL="../TGit_LvPlugin_log.vi"/>
+		<Item Name="TGit_LvPlugin_repostatus.vi" Type="VI" URL="../TGit_LvPlugin_repostatus.vi"/>
 		<Item Name="依存項目" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
