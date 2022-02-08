@@ -1,14 +1,14 @@
 # Overview
-  Tgit lvplugin is TortoiseGit for LabVIEW Plugin vis.
+  TGit lvplugin is LabVIEW Plugin for TortoiseGit.
 
 # Requirements
-* Windows
+* Windows (32bit or 64bit)
 * TortoiseGit and git for windows
 * LabVIEW 2018 or later.
 
 # Install
  1. copy LvPlugin vi files to Program Files\LabVIEW 20xx\project.
- 2.restart LabVIEW
+ 1. restart LabVIEW
 
 * LabVIEW 32bit  `"C:\Program Files(x86)\National Instruments\LabVIEW 20??\project"`
 * LabVIEW 64bit  `"C:\Program Files\National Instruments\LabVIEW 20??\project"`
